@@ -24,7 +24,7 @@ Possible KPIs include (to get you started, but not limited to):
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 [Data Set]('https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/01%20Call-Center-Dataset.xlsx')
-#### [Call Centre Trends Dashboard]('https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/Call%20Center%20Solution.pbix')
+#### [Call Centre Trends Dashboard](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/Call%20Center%20Solution.pbix)
 
 ## Task 2 : CUSTOMER RETENTION
 
@@ -38,9 +38,9 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - We  have done customer analysis with Excel: it has always ended in a dead-end
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 
-[Dataset]('https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/02%20Churn-Dataset.xlsx')
+Dataset : [Dataset]('https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/02%20Churn-Dataset.xlsx')
 
-#### [Customer Retention Dashboard]('https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/PWc%20_%20Customer%20Retention.pbix')
+#### Dashboard : [Customer Retention Dashboard]('https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/PWc%20_%20Customer%20Retention.pbix')
 
 ## Task 3 : Diversity & Inclusion
 
