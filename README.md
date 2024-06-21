@@ -42,6 +42,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 [Dataset](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/02%20Churn-Dataset.xlsx)
 
 #### [Customer Retention Dashboard](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/PWc%20_%20Customer%20Retention.pbix)
+![Uploading Welcome.PNG…]()
 
 
 ## Task 3 : Diversity & Inclusion
