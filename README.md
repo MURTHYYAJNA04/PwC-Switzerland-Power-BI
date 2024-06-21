@@ -55,3 +55,5 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 [Dataset](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
 
 #### [Diversity & Inclsuion Dashboard](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/Diversity%20%26%20Inclusion.pbix)
+
+![Uploading T3 1.PNG…]()
