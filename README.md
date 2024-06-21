@@ -26,6 +26,13 @@ Possible KPIs include (to get you started, but not limited to):
 [Data Set](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/01%20Call-Center-Dataset.xlsx)
 #### [Call Centre Trends Dashboard](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/Call%20Center%20Solution.pbix)
 
+\
+
+
+
+
+
+
 ## Task 2 : CUSTOMER RETENTION
 
 The Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
