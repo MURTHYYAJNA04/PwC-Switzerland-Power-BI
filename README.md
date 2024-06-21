@@ -43,7 +43,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 
 #### [Customer Retention Dashboard](https://github.com/MURTHYYAJNA04/PwC-Switzerland-Power-BI/blob/main/PWc%20_%20Customer%20Retention.pbix)
 ![Uploading Welcome.PNG…]()
-
+![Uploading T2_1.PNG…]()
 
 ## Task 3 : Diversity & Inclusion
 
